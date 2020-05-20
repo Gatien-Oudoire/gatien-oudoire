@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /Lycee/
+Allow: /*.css?*
+Allow: /*.js?*
