@@ -1,4 +1,6 @@
-[logo]: https://www.gatien-oudoire.com/img/logo-siteweb-256.png
+![alt text][logo]
+
+[logo]: https://www.gatien-oudoire.com/img/logo-siteweb-256.png "Logo du site"
 
 # gatien-oudoire
 
