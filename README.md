@@ -28,7 +28,7 @@ Une partie outils (/outils)
 
 Si vous trouvez un bug, une faille de sécurité ou autre merci de m en faire part à cette adresse 
 
-[Contact](mailto::gatien-oudoire.com)
+[Contact](mailto::contact@gatien-oudoire.com)
 
 ### Légal
 
