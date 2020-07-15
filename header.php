@@ -16,10 +16,11 @@
                 </div>
             </li>
         </ul>
+        // Permet de faire un menu à trois barrres sur mobile
         <div class="menu-barres">
             <div class="line1"></div>
             <div class="line2"></div>
             <div class="line3"></div>
         </div>
         <br>
-    </nav>
+</nav>
