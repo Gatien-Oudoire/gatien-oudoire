@@ -1,3 +1,5 @@
+[logo]: https://www.gatien-oudoire.com/img/logo-siteweb-256.png
+
 # gatien-oudoire
 
 Code source de mon site personnel 
