@@ -2,7 +2,7 @@
 
 [logo]: https://www.gatien-oudoire.com/img/logo-siteweb-256.png "Logo du site"
 
-# gatien-oudoire
+# Gatien-Oudoire
 
 Code source de mon site personnel 
 
