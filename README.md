@@ -26,7 +26,7 @@ Une partie outils (/outils)
 
 ### Sécurité & autres 
 
-Si vous trouvez un bug, une faille de sécurité ou autre merci de m en faire part à cette adresse 
+Si vous trouvez un bug, une faille de sécurité ou autre merci de m'en faire part à cette adresse:
 
 [Contact](mailto::contact@gatien-oudoire.com)
 
@@ -34,4 +34,4 @@ Si vous trouvez un bug, une faille de sécurité ou autre merci de m en faire pa
 
 Le site est sous license MIT 
 
--> Allez voir LICENCE.md pour plus d'informations
+-> Allez voir [LICENCE](https://github.com/Gatien-Oudoire/gatien-oudoire/blob/master/LICENSE) pour plus d'informations
