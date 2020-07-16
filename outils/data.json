@@ -1,0 +1,7 @@
+{
+    "agrandisseurInsta": { "name" : "Agrandisseur de photos de profil instagram" , "url": "rechercher.php"},
+    "ip": {"name": "Voir son adresse IP", "url": "ip.php"},
+    "vlb": {"name": "Lecteur vidéo VLB", "url": "vlb.php"},
+    "crypt": {"name": "Crypteur", "url": "crypt.php"},
+    "ts": {"name": "Teamspeak", "url": "teamspeak.php"}
+}
