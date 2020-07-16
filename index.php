@@ -1,61 +1,64 @@
+
 <!DOCTYPE html>
 <html lang="fr" id="htmlprincip">
+
 <head>
     <meta charset="utf-8">
     <meta name="description" content="Salut, je suis lycéen et ma passion c'est de créer des sites internet. Gatien Oudoire. Se Connecter. Lycée. Nancy. Loritz">
     <meta name="theme-color" content="black">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="img/logo-siteweb.png">
+    <link rel="icon" href="img/logo-siteweb-256.png">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="apple-touch-icon" href="img/logo-siteweb.png">
-    <link rel="apple-touch-startup-image" href="img/logo-siteweb.png"/>
+    <link rel="apple-touch-icon" href="img/logo-siteweb-256.png">
+    <link rel="apple-touch-startup-image" href="img/logo-siteweb.png" />
     <link rel="manifest" href="manifest.json">
     <title>Gatien Oudoire - Accueil</title>
+    <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+    </script>
 </head>
 
 <body>
-
-    <?php include("header.php")?>
+    <amp-auto-ads type="adsense" data-ad-client="ca-pub-1641774633489215">
+    </amp-auto-ads>
+    <?php include("header.php") ?>
 
     <main id="main">
-        <div class="contact" id="contact">
-            <img id="img_email" src="img/email-200.png" alt="Logo email">
-            <br>
-            <h1>Quelques liens :</h1>
-            <br>
-            <div class="barre-reseaux-sociaux">
-                <a target="_blank" rel="noreferrer" href="https://www.instagram.com/gatien.oudoire/"><img src="img/social/instagram.png" alt="instagram"></a>
-                <a target="_blank" rel="noreferrer" href="https://twitter.com/OudoireG/"><img src="img/social/twitter.png" alt="Twitter"></a>
-                <a target="_blank" rel="noreferrer" href="https://www.snapchat.com/add/gatien_o19"><img src="img/social/snapchat.png" alt="Snapchat"></a>
-            </div>
-        </div>
-        <br>
-        <br>
         <div class="projets" id="projets">
-            <img id="img_cercle" class="cercle" src="img/cercle-idea-200.png" alt="Logo Projet">
+            <br>
             <br>
             <h1>Quelques projets :</h1>
             <br>
             <br>
-            <div class="projet-discord">
-            <p>
-            <a target="_blank" rel="noreferrer" href="https://discordapp.com/oauth2/authorize?client_id=633920230158237707&scope=bot&permissions=2146958847"><img src="img/social/discord.png" alt="Bot Discord"></a>
-            </p>
+            <a href="/outils/teamspeak.php"><img class="img_de_projet" id="instragram-img-projet" src="img/teamspeak-3.png"></a>
+            <a href="/outils/rechercher.php"><img class="img_de_projet" id="teamspeak-img-projet" src="img/Instagram-icon.png"></a>
             <br>
             <br>
             <br>
-            </div>
             <br>
             <br>
             <br>
-            <div>
-                <p class="img-git-lien"><a target="_blank" rel="noreferrer" href="https://gitlab.com/gatien.oudoire/portfolio-responsive"><img src="img/social/git.png" alt="Gitlab"></a></p>
-            </div>
+            <br>
         </div>
         <br>
     </main>
+    <?php include('footer.php'); ?>
     <script src="js/design.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131728645-7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-131728645-7');
+    </script>
+    <!-- AdSense -->
+    <script data-ad-client="ca-pub-1641774633489215" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
 </body>
+
 </html>
